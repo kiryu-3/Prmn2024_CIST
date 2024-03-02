@@ -1,5 +1,5 @@
 # Prmn2024_mng
-運営用。将来的にはPrivateにする。
+運営用。将来的にはPrivateにする。  
 [2023年度版](https://github.com/kiryu-3/Prmn2023)
 
 
