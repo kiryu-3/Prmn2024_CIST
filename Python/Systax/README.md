@@ -12,25 +12,22 @@ print('Hello world!')
 本資料では、授業では紹介されていないものの、とても重要な文法事項について学習します。
 
 なお、本資料は、これから学科配属後に履修する以下授業との接続を意識して作られました。
-- <details><summary>『アプリケーションプログラミング（Python）』（電子光工学科2年秋学期）</summary>
+<details><summary>『アプリケーションプログラミング（Python）』（電子光工学科2年秋学期）</summary>
     
   - Pythonの基本文法の再確認
   - クラスやテキストファイル処理、例外処理など、『データサイエンス入門』で学習していない文法事項も学ぶ
   - その後GUIアプリ制作やアルゴリズムの学習へ
     
   </details>
-- 『Javaプログラミング（Java）』（情報システム工学科2年秋学期）
-
-  <details><summary>詳細</summary>
+<details><summary>『Javaプログラミング（Java）』（情報システム工学科2年秋学期）</summary>
 
   - Javaの基本文法の学習
   - クラス設計の方法（これは言語関係なく重要）
   - 最終的にLINEBotアプリ制作など
  
   </details>
-- 『情報システム開発基礎演習（Python）』（情報システム工学科3年春学期）
+<details><summary>『情報システム開発基礎演習（Python）』（情報システム工学科3年春学期）</summary>
 
-  <details><summary>詳細</summary>
 
   - AWSのサービスなどを呼び出し、JSONデータ処理
   - 授業で扱うpythonコードを読むために、基本的なクラスの知識の予習が課される（？）
