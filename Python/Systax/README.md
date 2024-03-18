@@ -1,4 +1,5 @@
 # Python 基本文法編
+
 <details><summary>すごく長い文章とかプログラムとか</summary>
 
 ```python
