@@ -1,11 +1,7 @@
 # Python 基本文法編
 
-<details><summary>すごく長い文章とかプログラムとか</summary>
-
-```python
-print('Hello world!')
-```
-</details>
+- [Python文法まとめ（Colab版）](../../Python/PythonBasic.ipynb)
+- [Python文法まとめ（Qiita版）](https://qiita.com/kiryu-3/items/888319c76fd82440f601)
 
 ## 初めに
 『データサイエンス入門』の中でPythonの基本文法をあらかた学習しました。  
@@ -40,9 +36,6 @@ print('Hello world!')
   </details>
 
 <hr>
-
-- [Python文法まとめ（Colab版）](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/PythonBasic.ipynb)
-- [Python文法まとめ（Qiita版）](https://qiita.com/kiryu-3/items/888319c76fd82440f601)
 
 なお、今回の演習で問われるような問題は、就活の際などプログラミングテストとして出題されることがあります。
 就活対策として（Pythonに限らず）演習を積みたい場合は[paizaラーニング](https://paiza.jp/works/mondai)というサービスがおすすめです。
