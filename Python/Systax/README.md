@@ -1,4 +1,10 @@
 # Python 基本文法編
+<details><summary>すごく長い文章とかプログラムとか</summary>
+
+```python
+print('Hello world!')
+```　
+</details>
 
 ## 初めに
 『データサイエンス入門』の中でPythonの基本文法をあらかた学習しました。  
