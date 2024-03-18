@@ -4,7 +4,7 @@
 
 ```python
 print('Hello world!')
-```　
+```
 </details>
 
 ## 初めに
