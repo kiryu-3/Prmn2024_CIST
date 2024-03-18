@@ -7,5 +7,5 @@
 <hr>
 
 - [Python（基本文法）](../../tree/main/Python/Systax)　　　※プロメン本資料(24/03/19更新)
-- [Python（WEB開発）](../../tree/main/Python/Streamlit) ※最終成果物参考資料(24/03/01更新)
-- [Python（LINEBot）](../../tree/main/Python/linebot) ※最終成果物参考資料(24/03/01更新)
+- [Python（WEB開発）](../../tree/main/Python/Streamlit)   ※最終成果物参考資料(24/03/01更新)
+- [Python（LINEBot）](../../tree/main/Python/linebot)      ※最終成果物参考資料(24/03/01更新)
