@@ -1,5 +1,10 @@
 # Python WEB開発編（Streamlit）
 
+- [Streamlit文法まとめ（Colab版）](../../Python/Streamlit/Streamlit_basic.ipynb)
+- [Streamlit文法まとめ（Qiita版）](https://qiita.com/kiryu-3/private/08afa87a4517eeafd862)
+
+<hr>
+
 Pythonのみで爆速でWEB開発を行える、[Streamlit](https://streamlit.io/)についての参考資料です。  
 Streamlitで開発を行うことで、HTML・CSS・Javascriptなどの言語を使わずに、Pythonだけで開発を行えます。  
 また、アプリを簡単に公開できることも大きな特徴です。
