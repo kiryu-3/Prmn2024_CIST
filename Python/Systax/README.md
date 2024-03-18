@@ -18,35 +18,35 @@
 就活対策として（Pythonに限らず）演習を積みたい場合は[paizaラーニング](https://paiza.jp/works/mondai)というサービスがおすすめです。
 
 
-## 第0章
+## 第0章<Git環境構築>
 
 Gitの環境構築パートです。
 - 2023年に運用した資料は[こちら](https://scrapbox.io/Prmn2023/Git(Prmn2023))
 - 2024年度版は、私の資料や秋学期の方の資料を参考にしながら運営の方で作ってもらえれば（瀬川）。
 - なお、これ以降の資料も好き勝手にいじってもらってかまいません。これで運営の皆さんに引き渡すというだけです（瀬川）。
 
-## 第1章
+## 第1章＜基本文法総復習＞
 
 『データサイエンス入門』で学習したPythonの基本文法を改めて確認します。
 
 - 問題は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/question/PythonBasic_BasicSyntax_Question.ipynb)
 - 解答は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/answer/PythonBasic_BasicSyntax_Answer.ipynb)
 
-## 第2章
+## 第2章＜クラス基礎＞
 
 「**オブジェクト指向**」への第一歩を踏み出すため、**クラス**の基礎について確認していきます。 
 
 - 問題は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/question/PythonBasic_BasicClasses_Question.ipynb)
 - 解答は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/answer/PythonBasic_BasicClasses_Answer.ipynb)
 
-## 第3章
+## 第3章＜クラス応用＞
 
 クラスの学習において最大の壁ともいわれる**継承**について確認していきます。 
 
 - 問題は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/question/PythonBasic_AdvancedClasses_Question.ipynb)
 - 解答は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/answer/PythonBasic_AdvancedClasses_Answer.ipynb)
 
-## 第4章
+## 第4章＜テキストファイル処理＞
 
 テキストファイルの読み込みをPythonで行う練習です。  
 
@@ -54,7 +54,7 @@ Gitの環境構築パートです。
 - 解答は[こちら](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/answer/PythonBasic_TextFiles_Answer.ipynb)
 
 
-## 第5章
+## 第5章＜API利用・JSON処理＞
 
 APIなどを利用する際によく登場する、JSONデータの扱いについて学びます。  
 
