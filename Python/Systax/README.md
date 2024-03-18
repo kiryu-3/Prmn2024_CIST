@@ -10,7 +10,7 @@ print('Hello world!')
 ## 初めに
 『データサイエンス入門』の中でPythonの基本文法をあらかた学習しました。  
 本資料では、授業では紹介されていないものの、とても重要な文法事項について学習します。
-
+この資料の演習を通してPythonプログラミングの力を向上させ、本プロジェクトの最終成果物を作る際の参考にしてください。
 
 
 <hr>
@@ -39,7 +39,7 @@ print('Hello world!')
 
   </details>
 
-この資料の演習を通してPythonプログラミングの力を向上させ、本プロジェクトの最終成果物を作る際の参考にしてください。
+<hr>
 
 - [Python文法まとめ（Colab版）](https://github.com/kiryu-3/Prmn2024_mng/blob/main/Python/Systax/PythonBasic.ipynb)
 - [Python文法まとめ（Qiita版）](https://qiita.com/kiryu-3/items/888319c76fd82440f601)
