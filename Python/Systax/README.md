@@ -55,6 +55,8 @@ Gitの環境構築パートです。
 - 一年秋学期『情報学』の高野先生パートで登場したピラミッド、フローチャートではなくコーディング問題
 - 成績データからGPAを計算する問題
 - コーディングテストの問題の代表格？FizzBuzz問題
+  
+<hr>
 
 - 問題は[こちら](../../Python/Systax/question/PythonBasic_BasicSyntax_Question.ipynb)
 - 解答は[こちら](../../Python/Systax/answer/PythonBasic_BasicSyntax_Answer.ipynb)
@@ -66,6 +68,8 @@ Gitの環境構築パートです。
 - 昆虫の動作を表すクラスを作成し、それぞれの動作に対応するメソッドを実装する問題
 - 車と給油所を操作する問題（発展問題付き）
 - 銀行の口座情報を管理し、ATMをシミュレートする問題（発展問題付き）
+  
+<hr>
 
 - 問題は[こちら](../../Python/Systax/question/PythonBasic_BasicClasses_Question.ipynb)
 - 解答は[こちら](../../Python/Systax/answer/PythonBasic_BasicClasses_Answer.ipynb)
@@ -77,6 +81,8 @@ Gitの環境構築パートです。
 - 昆虫の動作を表すクラスを作成し、それぞれの動作に対応するメソッドを実装後、継承を利用して機能を拡張する問題
 - 継承を利用してトラックを操作する問題
 - オーバーライドを利用してトラックを操作する問題（発展問題付き）
+  
+<hr>
 
 - 問題は[こちら](../../Python/Systax/question/PythonBasic_AdvancedClasses_Question.ipynb)
 - 解答は[こちら](../../Python/Systax/answer/PythonBasic_AdvancedClasses_Answer.ipynb)
@@ -88,6 +94,8 @@ Gitの環境構築パートです。
 - テキストファイルにある家計簿データを処理する問題
 - テキストファイルにある成績データからGPAを計算する問題
 - テキストファイルにある単語データから先頭文字ごとに単語数を計算して表示する問題
+  
+<hr>
 
 - 問題は[こちら](../../Python/Systax/question/PythonBasic_TextFiles_Question.ipynb)
 - 解答は[こちら](../../Python/Systax/answer/PythonBasic_TextFiles_Answer.ipynb)
@@ -100,6 +108,8 @@ APIなどを利用する際によく登場する、JSONデータの扱いにつ�
 - JSONファイルから国コードの情報を取得し、特定の形式で出力する問題
 - REST Countries APIから地域、小地域、人口、首都の情報をJSON形式で取得し、特定の形式で出力する問題
 - Worldwide Public Holidays APIから指定された国の今年の祝日情報をJSON形式で取得し、特定の形式で出力する問題
+  
+<hr>
 
 - 問題は[こちら](../../Python/Systax/question/PythonBasic_JSONProcessing_Question.ipynb)
 - 解答は[こちら](../../Python/Systax/answer/PythonBasic_JSONProcessing_Answer.ipynb)
